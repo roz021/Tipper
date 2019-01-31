@@ -14,6 +14,8 @@
 		3F40AED32202BB62009C1DBC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F40AED12202BB62009C1DBC /* LaunchScreen.storyboard */; };
 		3F40AEDE2202BB62009C1DBC /* TipperTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F40AEDD2202BB62009C1DBC /* TipperTests.swift */; };
 		3F40AEE92202BB62009C1DBC /* TipperUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F40AEE82202BB62009C1DBC /* TipperUITests.swift */; };
+		3F40AEF82202C77B009C1DBC /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3F40AEF62202C77B009C1DBC /* Roboto-Regular.ttf */; };
+		3F40AEF92202C77B009C1DBC /* Roboto-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3F40AEF72202C77B009C1DBC /* Roboto-Light.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		3F40AEE42202BB62009C1DBC /* TipperUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TipperUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F40AEE82202BB62009C1DBC /* TipperUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipperUITests.swift; sourceTree = "<group>"; };
 		3F40AEEA2202BB62009C1DBC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F40AEF62202C77B009C1DBC /* Roboto-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-Regular.ttf"; path = "../../pf/fonts/roboto/Roboto-Regular.ttf"; sourceTree = "<group>"; };
+		3F40AEF72202C77B009C1DBC /* Roboto-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-Light.ttf"; path = "../../pf/fonts/roboto/Roboto-Light.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +104,8 @@
 				3F40AEC82202BB60009C1DBC /* AppDelegate.swift */,
 				3F40AECA2202BB60009C1DBC /* ViewController.swift */,
 				3F40AECC2202BB60009C1DBC /* Main.storyboard */,
+				3F40AEF72202C77B009C1DBC /* Roboto-Light.ttf */,
+				3F40AEF62202C77B009C1DBC /* Roboto-Regular.ttf */,
 				3F40AECF2202BB62009C1DBC /* Assets.xcassets */,
 				3F40AED12202BB62009C1DBC /* LaunchScreen.storyboard */,
 				3F40AED42202BB62009C1DBC /* Info.plist */,
@@ -231,6 +237,8 @@
 			files = (
 				3F40AED32202BB62009C1DBC /* LaunchScreen.storyboard in Resources */,
 				3F40AED02202BB62009C1DBC /* Assets.xcassets in Resources */,
+				3F40AEF92202C77B009C1DBC /* Roboto-Light.ttf in Resources */,
+				3F40AEF82202C77B009C1DBC /* Roboto-Regular.ttf in Resources */,
 				3F40AECE2202BB60009C1DBC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
